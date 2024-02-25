@@ -1,0 +1,8 @@
+.dangnhap{
+    border-style: solid;
+    max-width:20000px;
+    display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh; /* Đảm bảo chiều cao đầy đủ cho trang */
+}
